@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ExitGame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ExitGame",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

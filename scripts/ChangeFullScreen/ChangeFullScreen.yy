@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ChangeFullScreen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ChangeFullScreen",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

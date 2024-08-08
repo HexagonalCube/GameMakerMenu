@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ChangeVolumeDown",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ChangeVolumeDown",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
